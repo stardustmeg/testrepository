@@ -1,0 +1,4 @@
+{
+  "pattern": "^(feat|fix)\/^(RSS-PZ-\\d+)-[a-z]+",
+  "errorMsg": "your own error message"
+}
